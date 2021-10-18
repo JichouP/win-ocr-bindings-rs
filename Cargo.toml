@@ -1,6 +1,10 @@
 [package]
+authors = ["JichouP <akkunn100@gmail.com>"]
+description = "bindings for windows for win_ocr"
 edition = "2018"
-name = "bindings"
+license = "MIT"
+name = "win_ocr_bindings"
+repository = "https://github.com/JichouP/win-ocr-rs-bindings"
 version = "0.1.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
